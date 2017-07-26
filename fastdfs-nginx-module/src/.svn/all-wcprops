@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/PLA/!svn/ver/11128/FB2/branch/fastdfs-nginx-module/src
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/PLA/!svn/ver/11128/FB2/branch/fastdfs-nginx-module/src/config
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/PLA/!svn/ver/11129/FB2/branch/fastdfs-nginx-module/src/common.c
+END
+ngx_http_fastdfs_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PLA/!svn/ver/11128/FB2/branch/fastdfs-nginx-module/src/ngx_http_fastdfs_module.c
+END
+mod_fastdfs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PLA/!svn/ver/11129/FB2/branch/fastdfs-nginx-module/src/mod_fastdfs.conf
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/PLA/!svn/ver/11128/FB2/branch/fastdfs-nginx-module/src/common.h
+END
